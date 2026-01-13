@@ -32,8 +32,8 @@ function App() {
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>Express.js</div>
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>MongoDB</div>
                         </div>
-                        <a href="https://crm-frontend-flame-rho.vercel.app/" class="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
-                        <a href="https://crm-frontend-flame-rho.vercel.app/" class="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
+                        <a href="https://crm-frontend-flame-rho.vercel.app/" className="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
+                        <a href="https://crm-frontend-flame-rho.vercel.app/" className="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
                    </div>
                    <div className="col shadow-lg p-3 mb-5 bg-body-tertiary rounded mx-3">
                     <img src="https://digitallinkspro.qa/wp-content/uploads/2023/09/ecommerce-website-checklist-b-.jpg" className="img-fluid" style={{paddingBottom:"120px",paddingTop:"80px"}} alt="ec" />
@@ -41,14 +41,14 @@ function App() {
                         <p>It is a ecommerce which can be used by the user to buy products
                            across various categories.
                         </p>
-                        <div className="d-flex gap-2">
+                        <div className="d-flex  gap-2">
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>React</div>
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>Node.js</div>
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>Express.js</div>
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>MongoDB</div>
                         </div>
-                        <a href="https://electro-kart-frontend-ten.vercel.app/" class="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
-                        <a href="https://github.com/Shoubhik12/CRM-Frontend" class="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
+                        <a href="https://electro-kart-frontend-ten.vercel.app/" className="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
+                        <a href="https://github.com/Shoubhik12/CRM-Frontend" className="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
                    </div>
                    <div className="col shadow-lg p-3 mb-5 bg-body-tertiary rounded mx-3">
                          <img src="https://wiiisdom.com/wp-content/uploads/2020/08/cover-post-sap-businessobjects-monitoring.png" style={{paddingBottom:"120px",paddingTop:"80px"}} className="img-fluid" alt="track" />
@@ -62,8 +62,8 @@ function App() {
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>Express.js</div>
                              <div className="bg-danger text-white px-2" style={{borderRadius:"5px"}}>MongoDB</div>
                         </div>
-                        <a href="https://lnkd.in/d8Sgf6Fm" class="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
-                        <a href="https://github.com/Shoubhik12/MindFuel" class="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
+                        <a href="https://lnkd.in/d8Sgf6Fm" className="link-danger fs-4 pe-4 py-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Link</a>
+                        <a href="https://github.com/Shoubhik12/MindFuel" className="link-danger fs-4 link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover">Code</a>
                    </div>
              </div>
 
